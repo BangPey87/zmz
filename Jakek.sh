@@ -57,7 +57,7 @@ if [ $ezz = 05 ] || [ $ezz = 5 ]
 then
 clear
 python2 lazada.py
-sh ANR.sh
+sh jakek.sh
 fi
 if [ $ezz = 00 ]
 then 
