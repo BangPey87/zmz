@@ -1,5 +1,5 @@
 clear
-figlet -f bigmono9 "Jakek Spam" | lolcat
+figlet -f bigmono9 "Jakek" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "                    AUTHOR : Jakek "
