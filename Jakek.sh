@@ -26,7 +26,7 @@ then
 clear
 toilet -f lean "JDID"
 php jdid.php
-sh ANR.sh
+sh jakek.sh
 fi
 
 if [ $ezz = 02 ] || [ $ezz = 2 ]
@@ -34,7 +34,7 @@ then
 clear
 toilet -f  lean  "TELKOMSEL"
 php telkomsel.php
-sh ANR.sh
+sh jakek.sh
 fi
 
 if [ $ezz = 03 ] || [ $ezz = 3 ]
@@ -42,7 +42,7 @@ then
 clear 
 toilet -f lean "PHD"
 php phd.php
-sh ANR.sh
+sh jakek.sh
 fi
 
 if [ $ezz = 04 ] || [ $ezz = 4 ]
@@ -50,7 +50,7 @@ then
 clear
 toilet -f lean "TOKPED"
 php tokped.php
-sh ANR.sh
+sh jakek.sh
 fi
 
 if [ $ezz = 05 ] || [ $ezz = 5 ]
